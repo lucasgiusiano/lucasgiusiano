@@ -35,9 +35,15 @@ Software Developer in Training · IT Analyst Student (ORT University)
 ### Databases
 `SQL Server` · `MySQL` · `MongoDB`
 
-### DevOps & Cloud
-`Git` · `GitHub` · `GitHub Actions` · `Azure` · `AWS`  
-Experience with CI, basic infrastructure-as-code concepts, and deployment for academic and personal projects.
+### DevOps & Cloud  
+
+`Git` · `GitHub` · `GitHub Actions` · `Azure` · `AWS` · `Docker` · `Kubernetes` · `Terraform` · `CI/CD`  
+
+- Currently studying a **DevOps & Cloud** program covering the full lifecycle: Plan → Code → Build → Test → Release/Deploy → Operate → Monitor.  
+- Experience designing **CI/CD pipelines** with automated builds, tests, static analysis and quality gates before deployment.  
+- Familiar with **Infrastructure as Code** using Terraform for reproducible environments and versioned infrastructure.  
+- Hands-on work with **containers** (Docker, docker-compose) and **cloud fundamentals** on AWS (networking, security groups, load balancers, monitoring).
+
 
 ### Other Tools & Libraries
 `Axios` · `Toastify` · `Font Awesome` · reusable UI components and controlled forms.
