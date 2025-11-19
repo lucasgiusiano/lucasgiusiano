@@ -122,6 +122,6 @@ Software Developer in Training · IT Analyst Student (ORT University)
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasgiusiano&show_icons=true&theme=transparent" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgiusiano&layout=compact&theme=transparent" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasgiusiano&show_icons=true&theme=transparent" alt="GitHub stats" height="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgiusiano&layout=compact&theme=transparent" alt="Top Langs" height="100%"/>
 </p>
