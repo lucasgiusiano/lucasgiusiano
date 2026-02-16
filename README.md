@@ -39,7 +39,7 @@ Software Developer · IT Analyst (Universidad ORT Uruguay)
 
 `Git` · `GitHub` · `GitHub Actions` · `Azure` · `AWS` · `Docker` · `Kubernetes` · `Terraform` · `CI/CD`  
 
-- Currently studying a **DevOps & Cloud** program covering the full lifecycle: Plan → Code → Build → Test → Release/Deploy → Operate → Monitor.  
+- Currently enrolled in an **additional DevOps & Cloud** program covering the full lifecycle: Plan → Code → Build → Test → Release/Deploy → Operate → Monitor.
 - Experience designing **CI/CD pipelines** with automated builds, tests, static analysis and quality gates before deployment.  
 - Familiar with **Infrastructure as Code** using Terraform for reproducible environments and versioned infrastructure.  
 - Hands-on work with **containers** (Docker, docker-compose) and **cloud fundamentals** on AWS (networking, security groups, load balancers, monitoring).
@@ -82,10 +82,9 @@ Software Developer · IT Analyst (Universidad ORT Uruguay)
 
 ## 🎓 Education
 
-  - 🎓 <strong>Information Technology Analyst</strong> – Universidad ORT Uruguay  
+- 🎓 <strong>Information Technology Analyst</strong> – Universidad ORT Uruguay  
   - Graduated. <strong>Overall average around 92%</strong>.  
   - Strong background in: Programming I/II/III, Data Structures & Algorithms I/II, Databases I/II, Software Engineering, Application Design & Development, and an Integrative Project.
-
 
 - 🎓 <strong>High School in Computer Science (Development emphasis)</strong> – UTU (Universidad del Trabajo del Uruguay)
 
