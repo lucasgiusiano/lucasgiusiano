@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Lucas Giusiano</h1>
 
 <h3 align="center">
-Software Developer in Training · IT Analyst Student (ORT University)
+Software Developer · IT Analyst (Universidad ORT Uruguay)
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@ Software Developer in Training · IT Analyst Student (ORT University)
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently studying <strong>Information Technology Analyst</strong> at Universidad ORT Uruguay (high GPA, ~92%).
+- 🎓 Graduated as <strong>Information Technology Analyst</strong> from Universidad ORT Uruguay (overall average ~92%).
 - 👨‍💻 5+ years of experience building academic and personal projects: from management systems to modern web apps.
 - 🧠 I care a lot about <strong>clean, maintainable, and efficient code</strong>.
 - 🌱 Focused on growing as a <strong>Backend / Full Stack Developer (.NET + React)</strong>.
@@ -82,9 +82,10 @@ Software Developer in Training · IT Analyst Student (ORT University)
 
 ## 🎓 Education
 
-- 🎓 <strong>Information Technology Analyst</strong> – Universidad ORT Uruguay  
-  - Degree in progress, 17/18 courses completed, <strong>overall average around 92%</strong>.  
-  - Strong background in: Programming I/II/III, Data Structures & Algorithms I/II, Databases I/II, Software Engineering, Application Design & Development, and a final Integrative Project.
+  - 🎓 <strong>Information Technology Analyst</strong> – Universidad ORT Uruguay  
+  - Graduated. <strong>Overall average around 92%</strong>.  
+  - Strong background in: Programming I/II/III, Data Structures & Algorithms I/II, Databases I/II, Software Engineering, Application Design & Development, and an Integrative Project.
+
 
 - 🎓 <strong>High School in Computer Science (Development emphasis)</strong> – UTU (Universidad del Trabajo del Uruguay)
 
